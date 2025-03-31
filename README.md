@@ -28,5 +28,5 @@ Calls scraping can be used for any project that needs to utilize Horizon calls f
 
 
 ⚠️ **WARNING**:
-- "dash" might not be compatible with your current version. Try downgrading it to 1.2.0 or else.
+- "dash" might not be compatible with your current version. Try downgrading it to 1.2.0 or else. You can also remove the debug statement from the dashboard file.
 - Python 3.12.5 will work best due to dependencies
