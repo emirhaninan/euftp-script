@@ -1,8 +1,7 @@
 # European Commission Calls for Istanbul Bilgi University Researchers
+A Python script to do automatic matchings of Istanbul Bilgi University researchers to the European Commission's Funding & Tenders Portal's call keywords concerning various research projects and proposals.
 
-A Python script to automatically match Istanbul Bilgi University researchers to the European Commission's Funding & Tenders Portal call keywords.
-
-![Color-coded deadlines](https://img.shields.io/badge/Deadlines-Red%2C%20Yellow%2C%20Green-brightgreen)
+Calls scraping can be used for any project that needs to utilize Horizon calls for the 2021-2027 period. The rest of the code is specified for BİLGİ.
 
 
 ## 🌐 Funding Portal
@@ -15,7 +14,7 @@ A Python script to automatically match Istanbul Bilgi University researchers to 
 - <span style="color:green">🟢 Green</span> - All others
 
 
-## 🛠 Requirements  
+## Requirements  
 ![Python Version](https://img.shields.io/badge/Python-3.12.5-blue?logo=python)
 ![Libraries](https://img.shields.io/badge/Libraries-See_requirements.txt-orange)
   
